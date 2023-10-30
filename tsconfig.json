@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "rootDir": "./Patterns"
+  },
+  "include": [
+    "./Patterns/*.ts"
+  ],
+  "exclude": ["node_modules"]
+}
